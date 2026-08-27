@@ -1,5 +1,5 @@
 # MacDynamic-Island
-Dynamic Island ✨ on your MacBook. Enjoy!
+Dynamic Island ✨ on your MacBook. Enjoy! (Requires macOS 26 or later.)
 
  ✨ Features  
 Custom Floating NSPanel Architecture: Built on top of a borderless, transparent NSPanel floating natively in the status bar layer (.statusBar), ensuring it stays active across all spaces and full-screen apps (.canJoinAllSpaces).
